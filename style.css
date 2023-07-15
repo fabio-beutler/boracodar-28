@@ -187,4 +187,7 @@ body {
   .container ul li a i:first-child {
     display: none;
   }
+  .container form {
+    gap: 4px;
+  }
 }
